@@ -1,0 +1,140 @@
+/* Empty. Add your own CSS if you like */
+
+.space {
+    padding: 5px 20px;
+}
+
+div.item {
+    background-color: #f5f9fd;
+}
+
+.header-style1 {
+    font-style: italic;
+    color: #a52a2a;
+}
+
+.ingredients li {
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+.side-space {
+    padding: 0px 15px 20px;
+}
+
+.side-space p {
+    font-size: 15px;
+}
+
+.dish-type .item {
+    font-size: 27px;
+    text-align: center;
+}
+
+.dish-type .item {
+    height: 150px;
+}
+
+.dish-type div {
+    line-height: 140px;
+    vertical-align: middle;
+}
+
+.even {
+    background-color: #FFFFE0;
+    font-weight: 500;
+}
+
+.odd {
+    background-color: #FFFFFF;
+    font-weight: 500;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.filterList {
+    padding: 10px;
+}
+
+.popover {
+    height: 180px;
+}
+
+.list .dietList {
+    font-size: 12px;
+}
+
+.dietList {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#filter {
+    padding-top: 3px;
+}
+
+#filter button {
+    zoom: 0.9;
+}
+
+.item h2 {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.item p {
+    font-size: 15px;
+}
+
+.recipeTitle {
+    padding: 10px 0 5px 0;
+    text-align: center;
+    color: #006400;
+    font-weight: bold;
+}
+
+ul.steps {
+    list-style: none;
+    counter-reset: li;
+    padding: 10px 0 10px 25px;
+    background-color: #f5f9fd;
+}
+
+.steps li::before {
+    content: counter(li);
+    color: #8b0000;
+    display: inline-block;
+    width: 12px;
+    margin-left: -16px;
+    font-weight: 500;
+}
+
+.steps li {
+    counter-increment: li;
+    font-size: 15px;
+    padding: 5px;
+}
+
+.item-thumbnail-left {
+    padding-left: 145px;
+    min-height: 145px;
+}
+
+.item-thumbnail-left>img:first-child, .item-thumbnail-left .item-image, .item-thumbnail-left .item-content>img:first-child, .item-thumbnail-left .item-content .item-image {
+    max-width: 120px;
+    max-height: 120px;
+}
+
+.description {
+    padding-top: 10px;
+}
+
+.item p, .item h2 {
+    white-space: initial;
+}
+
+.bottom {
+    padding-bottom: 20px;
+}

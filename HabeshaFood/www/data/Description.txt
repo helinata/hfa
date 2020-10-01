@@ -1,0 +1,5 @@
+<ion-view view-title="Description" class="side-space">
+  <ion-content>
+  This app contains recipes of Ethiopian/Eritrean cuisine.
+</ion-content>
+</ion-view>
