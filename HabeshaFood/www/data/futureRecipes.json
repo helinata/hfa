@@ -63,7 +63,70 @@
 		"recipeBy": "",
 		"visible": false
 	},
-	
+	{
+		"id": 22,
+		"imageUrl": "",
+		"name": "Pasta sauce",
+		"serving": "",
+		"prepTime": "",
+		"cookingTime": "",
+		"dishType": [
+			""
+		],
+		"dietType": "Vegan",
+		"spicy": 0,
+		"recipeRating": 0,
+		"description": "",
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "oil",
+				"amount": ""
+			},
+			{
+				"ingredient": "onion",
+				"amount": ""
+			},
+			{
+				"ingredient": "tomatoes, coarsely chopped",
+				"amount": ""
+			},
+			{
+				"ingredient": "berbere",
+				"amount": ""
+			},
+			{
+				"ingredient": "water",
+				"amount": ""
+			},
+			{
+				"ingredient": "jalapeno/serrano - optional",
+				"amount": ""
+			},
+			{
+				"ingredient": "ground pepper",
+				"amount": ""
+			},
+			{
+				"ingredient": "Salt to taste",
+				"amount": ""
+			},
+			{
+				"ingredient": "injera",
+				"amount": ""
+			}
+		],
+		"directions": [
+			{
+				"step": ""
+			},
+			{
+				"step": ""
+			}
+		],
+		"recipeBy": "",
+		"visible": false
+	},
 	{
 		"id": 25,
 		"imageUrl": "",
@@ -144,13 +207,12 @@
 		"recipeBy": "",
 		"visible": false
 	},
-
 	{
 		"id": 22,
 		"imageUrl": "",
-		"name": "Spicy minced beef stew",
+		"name": "Key sir selata | Beetroot and Potato Salad",
 		"serving": "3",
-		"prepTime": "5 minutes",
+		"prepTime": "15 minutes",
 		"cookingTime": "30 minutes",
 		"dishType": [
 			"mainDish"
@@ -166,19 +228,23 @@
 				"amount": ""
 			},
 			{
-				"ingredient": "onion",
+				"ingredient": "Jalopeno pepper, coarsely chopped",
 				"amount": ""
 			},
 			{
-				"ingredient": "tomatoes, coarsely chopped",
+				"ingredient": "Potaoes, medium size",
 				"amount": ""
 			},
 			{
-				"ingredient": "berbere",
-				"amount": ""
+				"ingredient": "Beetroots",
+				"amount": "3"
 			},
 			{
 				"ingredient": "water",
+				"amount": ""
+			},
+			{
+				"ingredient": "onion",
 				"amount": ""
 			},
 			{
@@ -209,5 +275,4 @@
 		"recipeBy": "",
 		"visible": false
 	}
-	
 ]

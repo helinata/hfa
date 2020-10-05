@@ -21,17 +21,17 @@ angular.module('starter', ['ionic', 'ngCordova', 'starter.controllers'])
       }
     });
   })
-
+  .config(function ($compileProvider) {
+    $compileProvider.aHrefSanitizationWhitelist(/^\s*(https?|mailto|tel|ionic):/);
+  })
   .config(function ($stateProvider, $urlRouterProvider) {
     $stateProvider
-
       .state('app', {
         url: '/app',
         abstract: true,
         templateUrl: 'templates/menu.html',
         controller: 'AppCtrl'
       })
-
       .state('app.home', {
         url: '/home',
         views: {

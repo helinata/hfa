@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1,
-		"imageUrl": "img/selata.png",
+		"imageUrl": "src/assets/img/selata.png",
 		"name": "Selata | Salad",
 		"serving": "4",
 		"prepTime": "10 min",
@@ -12,7 +12,7 @@
 		"dietType": "Vegan",
 		"spicy": 0,
 		"recipeRating": 0,
-		"description": "Salad can be served as a side dish with most traditional dishes.",
+		"description": "Salad is served as a side dish with most traditional dishes.",
 		"ingredients": [
 			{
 				"ingredient": "salt",
@@ -23,7 +23,7 @@
 				"amount": "3 tbsp"
 			},
 			{
-				"ingredient": "black paper",
+				"ingredient": "ground black paper",
 				"amount": "1 tsp"
 			},
 			{
@@ -49,13 +49,10 @@
 		],
 		"directions": [
 			{
-				"step": "Make the dressing by adding salt, pepper, olive oil and lime into a medium salad bowl. I recommend adding a little bit more salt than you usually use to make the salad tasty. Then, whisk the mix well."
+				"step": "Make the dressing ahead by combining salt, pepper, olive oil and lime into a medium salad bowl. I recommend adding a little bit more salt than you usually use to make the salad tasty. Then, whisk the mix well."
 			},
 			{
-				"step": "Add the onion, tomatoes, lettuce onto the dressing and toss it."
-			},
-			{
-				"step": "Serve it right away or refrigerate until serving."
+				"step": "Add the onion, tomatoes, lettuce on a medium bowl. When you are ready to serve the salad, add the dressing onto th bowl mix and toss it. Otherwise, refrigerate until serving."
 			}
 		],
 		"recipeBy": "",
@@ -63,7 +60,7 @@
 	},
 	{
 		"id": 2,
-		"imageUrl": "img/collard-greens.png",
+		"imageUrl": "src/assets/img/collard-greens.png",
 		"name": "Ye'habesha Gomen | Collard Greens",
 		"serving": "4",
 		"prepTime": "15 min",
@@ -134,7 +131,7 @@
 	},
 	{
 		"id": 3,
-		"imageUrl": "img/awaze-sauce.png",
+		"imageUrl": "src/assets/img/awaze-sauce.png",
 		"name": "Awaze | Hot Sauce",
 		"serving": "10",
 		"prepTime": "5 min",
@@ -145,7 +142,7 @@
 		"dietType": "Vegan",
 		"spicy": 1,
 		"recipeRating": 0,
-		"description": "Awaze is very easy to make and is served with most main courses.",
+		"description": "Awaze is very easy to make and is served as spicy sauce with most main courses.",
 		"ingredients": [
 			{
 				"ingredient": "berbere",
@@ -156,7 +153,7 @@
 				"amount": "1 tbsp"
 			},
 			{
-				"ingredient": "wine or Tej",
+				"ingredient": "wine, beer or Tej",
 				"amount": "2 tbsp"
 			},
 			{
@@ -188,7 +185,7 @@
 	},
 	{
 		"id": 4,
-		"imageUrl": "img/ayib.png",
+		"imageUrl": "src/assets/img/ayib.png",
 		"name": "Ayib | Cottage Cheese",
 		"serving": "4",
 		"prepTime": "5 min",
@@ -203,8 +200,8 @@
 		"calories": 0,
 		"ingredients": [
 			{
-				"ingredient": "low fat milk",
-				"amount": "1/2 gallon"
+				"ingredient": "1/2 gallon butter milk",
+				"amount": ""
 			},
 			{
 				"ingredient": "white Vinegar",
@@ -234,7 +231,7 @@
 	},
 	{
 		"id": 5,
-		"imageUrl": "img/LegaTibes.png",
+		"imageUrl": "src/assets/img/LegaTibes.png",
 		"name": "Ye'bere Lega Tibs | Beef Stew",
 		"serving": "3",
 		"prepTime": "10 min",
@@ -293,7 +290,10 @@
 				"step": "Heat oil in a medium pan over a medium temperature."
 			},
 			{
-				"step": "Place the beef on the pan and cook for 5 minutes while stirring occasionally. Then, add the onion and garlic to the pan and cook for another 10 minutes."
+				"step": "Place the beef on the pan and cook for 5 minutes while stirring occasionally."
+			},
+			{
+				"step": "Then, add the onion and garlic to the pan and cook for another 10 minutes."
 			},
 			{
 				"step": "Add the tomato, wine, pepper and salt to the mix and cook for another 5 minutes."
@@ -307,7 +307,7 @@
 	},
 	{
 		"id": 6,
-		"imageUrl": "img/Shiro.png",
+		"imageUrl": "src/assets/img/Shiro.png",
 		"name": "Shiro | Chickpea Powder Wot",
 		"serving": "4",
 		"prepTime": "10 min",
@@ -376,7 +376,7 @@
 	},
 	{
 		"id": 7,
-		"imageUrl": "img/kitfo.png",
+		"imageUrl": "src/assets/img/kitfo.png",
 		"name": "Kitfo | Spicy Beef Tartar",
 		"serving": "4",
 		"prepTime": "5 min",
@@ -387,14 +387,14 @@
 		"dietType": "Non-vegetarian",
 		"spicy": 0,
 		"recipeRating": 0,
-		"description": "This classic dish is a spicy beef that is traditionally served raw but can be served cooked. It is IMPORTANT to start preparing it few minutes before serving. Kitfo is typically served with collard greens (Gomen) and Ethiopian cheese (Ayib) as well as some form of bread, either a traditional flatbread (injera) or a bread made from the banana-like ensete plant. Note: Korarima is ground black cardamom (see Description page for more information).",
+		"description": "This classic dish is a spicy beef that is traditionally served raw but can be served cooked. It is IMPORTANT to start preparing it few minutes before serving. Kitfo is typically served with collard greens (Gomen) and Ethiopian cheese (Ayib) as well as some form of bread, either a traditional flatbread (injera) or a bread made from the banana-like ensete plant.",
 		"ingredients": [
 			{
-				"ingredient": "mitmita",
+				"ingredient": "mitmita or to taste",
 				"amount": "2 tsp"
 			},
 			{
-				"ingredient": "korerima",
+				"ingredient": "ground black cardamom",
 				"amount": "2 tsp"
 			},
 			{
@@ -412,7 +412,7 @@
 		],
 		"directions": [
 			{
-				"step": "On a medium pan, over a lower heat melt the butter. Add the mitmita, ground pepper, salt then remove from heat."
+				"step": "On a medium pan, over a lower heat melt the butter. Add the mitmita, cardamom, salt then remove from heat."
 			},
 			{
 				"step": "Mix spices with butter. Add beef on the pan."
@@ -429,8 +429,8 @@
 	},
 	{
 		"id": 8,
-		"imageUrl": "img/miser-wot.png",
-		"name": "Miser | Lentil Wot",
+		"imageUrl": "src/assets/img/miser-wot.png",
+		"name": "Miser | Red Lentil Wot",
 		"serving": "6",
 		"prepTime": "15 min",
 		"cookingTime": "45 min",
@@ -488,7 +488,7 @@
 				"step": "Heat oil in a medium-low non-stick pot over medium heat. Add onion and cook until tender."
 			},
 			{
-				"step": "Add tomato, berbere and garlic. Cook for 10 minutes by adding a cup of water in small portions while stirring occasionally"
+				"step": "Add tomato, berbere and garlic. Cook for 10 minutes by adding a cup of water in small portions while stirring occasionally."
 			},
 			{
 				"step": "Combine the lentil with the mix. Cook for 5 minutes. Then, add 4 cups of water and in small portions and stir occasionally for 15 minutes."
@@ -505,7 +505,7 @@
 	},
 	{
 		"id": 9,
-		"imageUrl": "img/EnqulalFirfir.png",
+		"imageUrl": "src/assets/img/EnqulalFirfir.png",
 		"name": "Enqulal Firfir | Scrambled Eggs",
 		"serving": "4",
 		"prepTime": "5 min",
@@ -552,7 +552,7 @@
 				"step": "Combine oil and onion on a medium pan and start cooking with medium-low heat until onion becomes tender"
 			},
 			{
-				"step": "Add the tomato and cook until it gets mushy"
+				"step": "Add the tomato to the pan and cook until it gets mushy."
 			},
 			{
 				"step": "Put eggs, pepper and salt to the pan and cook for 5 minutes."
@@ -566,7 +566,7 @@
 	},
 	{
 		"id": 10,
-		"imageUrl": "img/kinche.png",
+		"imageUrl": "src/assets/img/kinche.png",
 		"name": "Kinche | Bulgur",
 		"serving": "4",
 		"prepTime": "",
@@ -592,11 +592,11 @@
 				"amount": "1/2 cup"
 			},
 			{
-				"ingredient": "mitmita (to taste)",
+				"ingredient": "mitmita or to taste",
 				"amount": "1/2 tbsp"
 			},
 			{
-				"ingredient": "ground black pepper",
+				"ingredient": "ground black pepper/cardamom",
 				"amount": "1/2 tbsp"
 			},
 			{
@@ -626,7 +626,7 @@
 	},
 	{
 		"id": 11,
-		"imageUrl": "img/chechbesa.png",
+		"imageUrl": "src/assets/img/chechbesa.png",
 		"name": "Chechebsa | Spicy Bread",
 		"serving": "3",
 		"prepTime": "5 min",
@@ -687,7 +687,7 @@
 	},
 	{
 		"id": 12,
-		"imageUrl": "img/TimatimSalad.png",
+		"imageUrl": "src/assets/img/TimatimSalad.png",
 		"name": "Timatim Selata | Tomato Salad",
 		"serving": "2",
 		"prepTime": "10 min",
@@ -698,7 +698,7 @@
 		"dietType": "Vegan",
 		"spicy": 0,
 		"recipeRating": 0,
-		"description": "Tomato Salad can be served as a side dish with most traditional dishes.",
+		"description": "Tomato Salad is served as a side dish with most dishes.",
 		"ingredients": [
 			{
 				"ingredient": "salt",
@@ -745,7 +745,7 @@
 	},
 	{
 		"id": 13,
-		"imageUrl": "img/quanta-firfir.png",
+		"imageUrl": "src/assets/img/quanta-firfir.png",
 		"name": "Kuanta (Beef Jerky) Firfir",
 		"serving": "3",
 		"prepTime": "10 min",
@@ -805,7 +805,7 @@
 				"step": "In a medium pan, heat oil over medium heat. Then, add onion and cook until onion turns tender."
 			},
 			{
-				"step": "Add the garlic, tomato, berbere and 1/3 cup water. Cook, stirring frequently, for 5 minutes. "
+				"step": "Add the garlic, tomato, berbere and 1/3 cup water. Cook, stirring frequently, for 5 minutes."
 			},
 			{
 				"step": "Then, add the dried meat and 2/3 cup of water and let it cook for 10 minutes. Stir the mix in between."
@@ -817,7 +817,7 @@
 				"step": "Cut injera in large pieces. Add the injera to the pan and combine with sauce by stirring slowly for few times."
 			},
 			{
-				"step": "Serve it with injera or bread"
+				"step": "Serve it with injera or bread."
 			}
 		],
 		"recipeBy": "",
@@ -825,7 +825,7 @@
 	},
 	{
 		"id": 14,
-		"imageUrl": "img/BozenaShiro.png",
+		"imageUrl": "src/assets/img/Shiro.png",
 		"name": "Bozena Shiro | Chickpea Powder Wot",
 		"serving": "4",
 		"prepTime": "10 min",
@@ -898,7 +898,7 @@
 	},
 	{
 		"id": 15,
-		"imageUrl": "img/BesoFirfir.png",
+		"imageUrl": "src/assets/img/BesoFirfir.png",
 		"name": "Besso Firfir",
 		"serving": "4",
 		"prepTime": "8 min",
@@ -916,7 +916,7 @@
 				"amount": "2 cups"
 			},
 			{
-				"ingredient": "mitmita",
+				"ingredient": "mitmita or to taste",
 				"amount": "1/4 tsp"
 			},
 			{
@@ -938,13 +938,13 @@
 		],
 		"directions": [
 			{
-				"step": "Mix the besso, mitmita, salt and sugar in a medium bowl"
+				"step": "Mix the besso, mitmita, salt and sugar in a medium bowl."
 			},
 			{
-				"step": "Add the warm water and oil/butter into the bowl and mix well"
+				"step": "Add the warm water and oil/butter into the bowl and mix well."
 			},
 			{
-				"step": "Make a fist of the besso mix and squeeze it while turning."
+				"step": "Get a handful of besso mix from the bowl, make a fist and squeeze it while turning. The step will make it easier to grab the besso and eat it."
 			},
 			{
 				"step": "Serve it with coffee or tea."
@@ -955,7 +955,7 @@
 	},
 	{
 		"id": 16,
-		"imageUrl": "img/senig-kariya.png",
+		"imageUrl": "src/assets/img/senig-kariya.png",
 		"name": "Senig Kariya | Stuffed Serrano Pepper",
 		"serving": "4",
 		"prepTime": "5 min",
@@ -1015,7 +1015,7 @@
 	},
 	{
 		"id": 17,
-		"imageUrl": "img/siga-firfir.png",
+		"imageUrl": "src/assets/img/siga-firfir.png",
 		"name": "Siga Firfir | Beef Firfir",
 		"serving": "3",
 		"prepTime": "10 min",
@@ -1075,7 +1075,7 @@
 				"step": "In a medium pan, heat oil over medium heat. Then, add onion and cook until onion turns tender."
 			},
 			{
-				"step": "Add the garlic, tomato, berbere and 1/3 cup water. Cook, stirring frequently, for 5 minutes. "
+				"step": "Add the garlic, tomato, berbere and 1/3 cup water. Cook, stirring frequently, for 5 minutes."
 			},
 			{
 				"step": "Then, add the beef and cook for another 5 minutes."
@@ -1087,7 +1087,7 @@
 				"step": "Slice injera in large pieces. Add the injera to the pan and combine with sauce by stirring slowly for few times."
 			},
 			{
-				"step": "Serve it with injera or bread"
+				"step": "Serve it with injera or bread."
 			}
 		],
 		"recipeBy": "",
@@ -1095,7 +1095,7 @@
 	},
 	{
 		"id": 18,
-		"imageUrl": "img/tikel-gomen.png",
+		"imageUrl": "src/assets/img/tikel-gomen.png",
 		"name": "Tikil Gomen | Cabbage",
 		"serving": "6",
 		"prepTime": "10 min",
@@ -1152,7 +1152,7 @@
 				"step": "Place the cabbage on the pan with other vegetables and cook, stirring occasionally, for about 15 minutes. Add a little bit of water, if necessary."
 			},
 			{
-				"step": "Add the serrano pepper, salt and pepper; Cook for an additional 5 minutes and Serve."
+				"step": "Add the serrano pepper, salt and pepper and cook for an additional 5 minutes. It is then ready to serve."
 			}
 		],
 		"recipeBy": "",
@@ -1160,7 +1160,7 @@
 	},
 	{
 		"id": 19,
-		"imageUrl": "img/genfo.png",
+		"imageUrl": "src/assets/img/genfo.png",
 		"name": "Genfo",
 		"serving": "3",
 		"prepTime": "5 min",
@@ -1195,7 +1195,7 @@
 				"amount": "2 cups"
 			},
 			{
-				"ingredient": "berbere/Mitmita",
+				"ingredient": "berbere or to taste",
 				"amount": "1 tsp"
 			}
 		],
@@ -1227,7 +1227,7 @@
 	},
 	{
 		"id": 20,
-		"imageUrl": "img/dinch-besiga.png",
+		"imageUrl": "src/assets/img/dinch-besiga.png",
 		"name": "Dinch Be'siga | Beef and Potatoe Wot",
 		"serving": "6",
 		"prepTime": "",
@@ -1274,7 +1274,7 @@
 				"amount": "6"
 			},
 			{
-				"ingredient": "Ground pepper to taste",
+				"ingredient": "Ground black pepper to taste",
 				"amount": ""
 			},
 			{
@@ -1311,7 +1311,7 @@
 	},
 	{
 		"id": 21,
-		"imageUrl": "img/key-siga-wot.png",
+		"imageUrl": "src/assets/img/key-siga-wot.png",
 		"name": "Ye'Bere Siga Wot | Spicy Beef Stew",
 		"serving": "4",
 		"prepTime": "",
@@ -1395,7 +1395,7 @@
 	},
 	{
 		"id": 22,
-		"imageUrl": "img/fasolia.png",
+		"imageUrl": "src/assets/img/fasolia.png",
 		"name": "Fasolia | Green beans",
 		"serving": "6",
 		"prepTime": "10 min",
@@ -1425,6 +1425,10 @@
 				"amount": "2 cloves"
 			},
 			{
+				"ingredient": "ground turmeric (Ird)",
+				"amount": "1/2 tsp"
+			},
+			{
 				"ingredient": "green beans, ends removed and halved",
 				"amount": "1 pound"
 			},
@@ -1442,7 +1446,7 @@
 				"step": "Place a medium pan over a medium-low heat. Add oil, onion and garlic. Saute until tender."
 			},
 			{
-				"step": "Add green beans and carrot to the pan. saute, stirring, them until softened."
+				"step": "Add turmeric, green beans and carrot to the pan. saute, stirring, them until softened."
 			},
 			{
 				"step": "Add the salt and water, stir until combined. Bring to a boil. Reduce heat and simmer, uncovered, until the vegetables are very soft and most of the liquid has evaporated. Stir the vegetables occasionally and add extra water if necessary."
@@ -1453,7 +1457,7 @@
 	},
 	{
 		"id": 23,
-		"imageUrl": "img/ater-kik.png",
+		"imageUrl": "src/assets/img/ater-kik.png",
 		"name": "Alecha Kik | Split Pea Wot",
 		"serving": "4",
 		"prepTime": "",
@@ -1488,6 +1492,10 @@
 				"amount": "1 cup"
 			},
 			{
+				"ingredient": "ground turmeric (Ird)",
+				"amount": "1/2 tsp"
+			},
+			{
 				"ingredient": "ground ginger",
 				"amount": "1/2 tsp"
 			},
@@ -1508,7 +1516,7 @@
 				"step": "Meanwhile, add oil, onion and garlic in a deep pan. Cook stirring occasionally, until translucent."
 			},
 			{
-				"step": "Add cooked split peas (water included), ginger and salt into the onion mixture. Mix, cover and cook on medium-low heat for 10 minutes."
+				"step": "Add cooked split peas (water included), turmeric, ginger and salt into the onion mixture. Mix, cover and cook on medium-low heat for 10 minutes."
 			},
 			{
 				"step": "Add serrano pepper. Reduce heat to low and simmer for 5 minutes."
@@ -1522,7 +1530,7 @@
 	},
 	{
 		"id": 24,
-		"imageUrl": "img/avocado-selata.png",
+		"imageUrl": "src/assets/img/avocado-selata.png",
 		"name": "Avocado Selata | Salad",
 		"serving": "2",
 		"prepTime": "10 min",
@@ -1587,7 +1595,7 @@
 	},
 	{
 		"id": 25,
-		"imageUrl": "img/difen-miser.png",
+		"imageUrl": "src/assets/img/difen-miser.png",
 		"name": "Difen Miser | Brown Lentils Wot",
 		"serving": "6",
 		"prepTime": "10 min",
@@ -1623,7 +1631,7 @@
 				"amount": "1 cup"
 			},
 			{
-				"ingredient": "ird (turmeric)",
+				"ingredient": "ground turmeric (Ird)",
 				"amount": "1/2 tsp"
 			},
 			{
@@ -1664,7 +1672,7 @@
 	},
 	{
 		"id": 26,
-		"imageUrl": "img/kitfo-tibs.png",
+		"imageUrl": "src/assets/img/kitfo-tibs.png",
 		"name": "Spicy Minced Beef Stew",
 		"serving": "3",
 		"prepTime": "5 min",
@@ -1675,7 +1683,7 @@
 		"dietType": "Non-vegetarian",
 		"spicy": 0,
 		"recipeRating": 0,
-		"description": "",
+		"description": "This dish is a favorit of mine and my family.",
 		"calories": 0,
 		"ingredients": [
 			{
@@ -1699,11 +1707,11 @@
 				"amount": "3/4 cup"
 			},
 			{
-				"ingredient": "mitmita",
+				"ingredient": "mitmita or to taste",
 				"amount": "1 1/2 tsp"
 			},
 			{
-				"ingredient": "korarima",
+				"ingredient": "black cardamom ground",
 				"amount": "1 tsp"
 			},
 			{
@@ -1726,7 +1734,7 @@
 				"step": "Place the beef on the pan. While stirring occasionally, cook for about 10 minutes or until meat is cooked well done."
 			},
 			{
-				"step": "Add butter, mitmita, korarima and salt to the mix and cook for another 5 minutes. Serve it while warm with injera."
+				"step": "Add butter, mitmita, cardamom and salt to the mix and cook for another 5 minutes. Serve it while warm with injera."
 			}
 		],
 		"recipeBy": "",

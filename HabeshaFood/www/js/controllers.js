@@ -66,7 +66,7 @@ angular.module('starter.controllers', [])
 
   .controller('SharingCtrl', function ($scope, $cordovaSocialSharing) {
     $scope.shareAnywhere = function () {
-      $cordovaSocialSharing.share("Hello, I am enjoying these Ethiopian/Eritrean cusine recipes. Thought you might like it.", "Habesha Food Recipes", "www/icon-40.png", "https://itunes.apple.com/us/app/habesha-food/id1229276992?mt=8");
+      $cordovaSocialSharing.share("Hello, I am enjoying these Ethiopian/Eritrean cusine recipes. I thought you might like it.", "Habesha Food Recipes", "www/icon-40.png", "https://itunes.apple.com/us/app/habesha-food/id1229276992?mt=8");
     }
   })
 
