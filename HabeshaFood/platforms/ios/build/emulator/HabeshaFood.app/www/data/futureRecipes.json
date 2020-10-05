@@ -1,0 +1,278 @@
+[
+	{
+		"id": 22,
+		"imageUrl": "",
+		"name": "Ye'tsome Firfir",
+		"serving": "",
+		"prepTime": "",
+		"cookingTime": "",
+		"dishType": [
+			""
+		],
+		"dietType": "Vegan",
+		"spicy": 0,
+		"recipeRating": 0,
+		"description": "",
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "oil",
+				"amount": ""
+			},
+			{
+				"ingredient": "onion",
+				"amount": ""
+			},
+			{
+				"ingredient": "tomatoes, coarsely chopped",
+				"amount": ""
+			},
+			{
+				"ingredient": "berbere",
+				"amount": ""
+			},
+			{
+				"ingredient": "water",
+				"amount": ""
+			},
+			{
+				"ingredient": "jalapeno/serrano - optional",
+				"amount": ""
+			},
+			{
+				"ingredient": "ground pepper",
+				"amount": ""
+			},
+			{
+				"ingredient": "Salt to taste",
+				"amount": ""
+			},
+			{
+				"ingredient": "injera",
+				"amount": ""
+			}
+		],
+		"directions": [
+			{
+				"step": ""
+			},
+			{
+				"step": ""
+			}
+		],
+		"recipeBy": "",
+		"visible": false
+	},
+	{
+		"id": 22,
+		"imageUrl": "",
+		"name": "Pasta sauce",
+		"serving": "",
+		"prepTime": "",
+		"cookingTime": "",
+		"dishType": [
+			""
+		],
+		"dietType": "Vegan",
+		"spicy": 0,
+		"recipeRating": 0,
+		"description": "",
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "oil",
+				"amount": ""
+			},
+			{
+				"ingredient": "onion",
+				"amount": ""
+			},
+			{
+				"ingredient": "tomatoes, coarsely chopped",
+				"amount": ""
+			},
+			{
+				"ingredient": "berbere",
+				"amount": ""
+			},
+			{
+				"ingredient": "water",
+				"amount": ""
+			},
+			{
+				"ingredient": "jalapeno/serrano - optional",
+				"amount": ""
+			},
+			{
+				"ingredient": "ground pepper",
+				"amount": ""
+			},
+			{
+				"ingredient": "Salt to taste",
+				"amount": ""
+			},
+			{
+				"ingredient": "injera",
+				"amount": ""
+			}
+		],
+		"directions": [
+			{
+				"step": ""
+			},
+			{
+				"step": ""
+			}
+		],
+		"recipeBy": "",
+		"visible": false
+	},
+	{
+		"id": 25,
+		"imageUrl": "",
+		"name": "Alicha dinch",
+		"serving": "4",
+		"prepTime": "",
+		"cookingTime": "",
+		"dishType": [
+			"main"
+		],
+		"dietType": "",
+		"spicy": 0,
+		"recipeRating": 0,
+		"description": "Sega Wot is a spicy but delicious beef stew. To calm down the spicyness of the stew, you can serve it with a side of ayib/plain yogurt.",
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "oil",
+				"amount": "1/2 cup"
+			},
+			{
+				"ingredient": "onion, finely chopped",
+				"amount": "3 cups"
+			},
+			{
+				"ingredient": "tomatoes, coarsely chopped",
+				"amount": "2"
+			},
+			{
+				"ingredient": "minced garlic",
+				"amount": "1 tbsp"
+			},
+			{
+				"ingredient": "water",
+				"amount": "4 cups"
+			},
+			{
+				"ingredient": "berbere",
+				"amount": "4 tbsp"
+			},
+			{
+				"ingredient": "beef cut in 1-inch cubes",
+				"amount": "1 pound"
+			},
+			{
+				"ingredient": "pepper to taste",
+				"amount": ""
+			},
+			{
+				"ingredient": "salt to taste",
+				"amount": ""
+			},
+			{
+				"ingredient": "Ethiopian clarified butter (Optional)",
+				"amount": "4 tbsp"
+			}
+		],
+		"directions": [
+			{
+				"step": "In a medium pot, heat oil over medium heat. Add the onion to the pot and cook until onion turns tender."
+			},
+			{
+				"step": "Add the tomato, garlic, berbere to the pot. Cook for 5 minutes by adding a small amount of water and stirring frequently. "
+			},
+			{
+				"step": "Then, place meat on the pot and cook until tender. Add a small amount of water if necessary and stir the mix in between."
+			},
+			{
+				"step": "Add 3 cups of water onto the pot. Cook for 20 minutes while stirring frequently."
+			},
+			{
+				"step": " Sprinkle the salt and pepper; Add butter Lower the heat and cook for another 2 minutes."
+			},
+			{
+				"step": "Place it aside to cool. Serve it with injera or bread."
+			}
+		],
+		"recipeBy": "",
+		"visible": false
+	},
+	{
+		"id": 22,
+		"imageUrl": "",
+		"name": "Key sir selata | Beetroot and Potato Salad",
+		"serving": "3",
+		"prepTime": "15 minutes",
+		"cookingTime": "30 minutes",
+		"dishType": [
+			"mainDish"
+		],
+		"dietType": "Vegan",
+		"spicy": 0,
+		"recipeRating": 0,
+		"description": "",
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "oil",
+				"amount": ""
+			},
+			{
+				"ingredient": "Jalopeno pepper, coarsely chopped",
+				"amount": ""
+			},
+			{
+				"ingredient": "Potaoes, medium size",
+				"amount": ""
+			},
+			{
+				"ingredient": "Beetroots",
+				"amount": "3"
+			},
+			{
+				"ingredient": "water",
+				"amount": ""
+			},
+			{
+				"ingredient": "onion",
+				"amount": ""
+			},
+			{
+				"ingredient": "jalapeno/serrano - optional",
+				"amount": ""
+			},
+			{
+				"ingredient": "ground pepper",
+				"amount": ""
+			},
+			{
+				"ingredient": "Salt to taste",
+				"amount": ""
+			},
+			{
+				"ingredient": "injera",
+				"amount": ""
+			}
+		],
+		"directions": [
+			{
+				"step": ""
+			},
+			{
+				"step": ""
+			}
+		],
+		"recipeBy": "",
+		"visible": false
+	}
+]
