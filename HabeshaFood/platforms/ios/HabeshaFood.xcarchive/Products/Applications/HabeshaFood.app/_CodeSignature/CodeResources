@@ -18,11 +18,11 @@
 		</data>
 		<key>CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib</key>
 		<data>
-		rUMnBgLqdwMJ3dof6NkeGOTf73M=
+		CQVf2w3dK1VYNnjDLHS7M1NKfGc=
 		</data>
 		<key>CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib</key>
 		<data>
-		sqwNGn3UBU02t2UYjEXRyP8RfZQ=
+		YzaVp99H9iBrfJ1KS7uuTMrvE5k=
 		</data>
 		<key>CDVLaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib</key>
 		<data>
-		6Xg/lLc8Ur16/PhOgsNY1iGaLdM=
+		9rhoNHGYELHyDFc04S1p0fGhxi8=
 		</data>
 		<key>CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib</key>
 		<data>
-		9rc1s+zP24wg1SnQcefWK6uBMxA=
+		7MaESwQ35cAjQ23TOp7b6PvZ5sg=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>MainViewController.nib</key>
 		<data>
-		0Fl2U9V2Moh/pTZdpHLPvV0fBLM=
+		t0bhUl0wyTuJQGAbq+mrhm1Z+Hg=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -55,6 +55,130 @@
 		<key>embedded.mobileprovision</key>
 		<data>
 		n+TGBPxQBAoMPIF5uLJh0dEdZsY=
+		</data>
+		<key>www/assets/img/BesoFirfir.png</key>
+		<data>
+		jKpz2bziQ1wjWnudPzpfB3KH+FE=
+		</data>
+		<key>www/assets/img/BozenaShiro.png</key>
+		<data>
+		hVumDGn+ELZ0d+qP0iFgrxU6MzA=
+		</data>
+		<key>www/assets/img/EnqulalFirfir.png</key>
+		<data>
+		aq3119gEWySiOOPksZicO/hdwMw=
+		</data>
+		<key>www/assets/img/Icon/_ionicons_svg_ios-share-alt.svg</key>
+		<data>
+		sSZVEQqXPWUH0kfBtCkav1pAXpY=
+		</data>
+		<key>www/assets/img/Icon/_ionicons_svg_md-share-alt.svg</key>
+		<data>
+		KbHGOPLqemBmK7Anr8OEPoF2BEs=
+		</data>
+		<key>www/assets/img/LegaTibes.png</key>
+		<data>
+		W1bL5XE4+i2AUcmw5GwiwntiJlU=
+		</data>
+		<key>www/assets/img/Shiro.png</key>
+		<data>
+		aemK5xQiTZRAjQ/ldkEVwIgZcrY=
+		</data>
+		<key>www/assets/img/TikelGomen.png</key>
+		<data>
+		xuvysQ3zE5V8MzveNaSSLPh4Q1s=
+		</data>
+		<key>www/assets/img/TimatimSalad.png</key>
+		<data>
+		EMsGazrpW6gvDP5z7LeY8kDcVrU=
+		</data>
+		<key>www/assets/img/ater-kik.png</key>
+		<data>
+		HlgLLyIRpPM45KnSgSBkPGq4mrM=
+		</data>
+		<key>www/assets/img/avocado-selata.png</key>
+		<data>
+		avmkTDdKgJ0j2C3sUICGkEj8MEw=
+		</data>
+		<key>www/assets/img/awaze-sauce.png</key>
+		<data>
+		uAP/cggPt2TkpYMY0XK9A4kqnf0=
+		</data>
+		<key>www/assets/img/ayib.png</key>
+		<data>
+		2ikyinOrzbQyQe5nK0XvLzROY9M=
+		</data>
+		<key>www/assets/img/chechbesa.png</key>
+		<data>
+		s/1j3DZWoBev4lVGyBchENwsTOk=
+		</data>
+		<key>www/assets/img/collard-greens.png</key>
+		<data>
+		3hz09Ra+QtXrMRHbW26WznJH3ts=
+		</data>
+		<key>www/assets/img/difen-miser.png</key>
+		<data>
+		U0i6an6w5KkgiYNNxX0nkr2qoLc=
+		</data>
+		<key>www/assets/img/dinch-besiga.png</key>
+		<data>
+		ZA0G97Qjiy4QSsP8WhZ4nh2yFVU=
+		</data>
+		<key>www/assets/img/fasolia.png</key>
+		<data>
+		hdDKd450DcrFs6svWeBtkW49o9E=
+		</data>
+		<key>www/assets/img/genfo.png</key>
+		<data>
+		7UInnGFE6fyhG9I6eXHW812+30I=
+		</data>
+		<key>www/assets/img/icon.png</key>
+		<data>
+		oiwMfmDajubas8uBB0EDEC7s8xc=
+		</data>
+		<key>www/assets/img/key-siga-wot.png</key>
+		<data>
+		0jf1gXR4swm999EpDGEnnl4dugo=
+		</data>
+		<key>www/assets/img/kinche.png</key>
+		<data>
+		XW7SkHuuYQYU0c+wmySXLsfZt74=
+		</data>
+		<key>www/assets/img/kitfo-tibs.png</key>
+		<data>
+		D1WMp8ggCLKW6hCK+Mv4LFXg55Q=
+		</data>
+		<key>www/assets/img/kitfo.png</key>
+		<data>
+		57E5XqVKB2fo1ISkk1DDkbjtZzQ=
+		</data>
+		<key>www/assets/img/miser-wot.png</key>
+		<data>
+		/w9lG/163JS9tEXoWyadalcHV04=
+		</data>
+		<key>www/assets/img/quanta-firfir.png</key>
+		<data>
+		JfaTPtC5AG5YKRSaDtEkZvMNQQ8=
+		</data>
+		<key>www/assets/img/selata.png</key>
+		<data>
+		1sVM5KHoIvuCxDnlF6/RTOcDfpg=
+		</data>
+		<key>www/assets/img/senig-kariya.png</key>
+		<data>
+		Fm6hyM/f4YOJQZhJCPvZy5VOSvQ=
+		</data>
+		<key>www/assets/img/siga-firfir.png</key>
+		<data>
+		8CLXgv9DSQ/ZgUlI5yEiTLjbROI=
+		</data>
+		<key>www/assets/img/siga-wot.png</key>
+		<data>
+		xkkoRYJPleOjL+jvMN4CqMljveA=
+		</data>
+		<key>www/assets/img/tikel-gomen.png</key>
+		<data>
+		8CfAqTQCSQVGQmKijtvQfJr+t5w=
 		</data>
 		<key>www/cordova-js-src/exec.js</key>
 		<data>
@@ -110,7 +234,7 @@
 		</data>
 		<key>www/data/recipes.json</key>
 		<data>
-		7swpPHkhENh6PFlDhJDPZCBfrfc=
+		W5ul6XhiaIRAJ4YT01+a0VXh/9w=
 		</data>
 		<key>www/icon-40.png</key>
 		<data>
@@ -432,130 +556,6 @@
 		<data>
 		J+DmZRTtOZmpoyTi0zc6v0AlHy8=
 		</data>
-		<key>www/src/assets/img/BesoFirfir.png</key>
-		<data>
-		jKpz2bziQ1wjWnudPzpfB3KH+FE=
-		</data>
-		<key>www/src/assets/img/BozenaShiro.png</key>
-		<data>
-		hVumDGn+ELZ0d+qP0iFgrxU6MzA=
-		</data>
-		<key>www/src/assets/img/EnqulalFirfir.png</key>
-		<data>
-		aq3119gEWySiOOPksZicO/hdwMw=
-		</data>
-		<key>www/src/assets/img/Icon/_ionicons_svg_ios-share-alt.svg</key>
-		<data>
-		sSZVEQqXPWUH0kfBtCkav1pAXpY=
-		</data>
-		<key>www/src/assets/img/Icon/_ionicons_svg_md-share-alt.svg</key>
-		<data>
-		KbHGOPLqemBmK7Anr8OEPoF2BEs=
-		</data>
-		<key>www/src/assets/img/LegaTibes.png</key>
-		<data>
-		W1bL5XE4+i2AUcmw5GwiwntiJlU=
-		</data>
-		<key>www/src/assets/img/Shiro.png</key>
-		<data>
-		aemK5xQiTZRAjQ/ldkEVwIgZcrY=
-		</data>
-		<key>www/src/assets/img/TikelGomen.png</key>
-		<data>
-		xuvysQ3zE5V8MzveNaSSLPh4Q1s=
-		</data>
-		<key>www/src/assets/img/TimatimSalad.png</key>
-		<data>
-		EMsGazrpW6gvDP5z7LeY8kDcVrU=
-		</data>
-		<key>www/src/assets/img/ater-kik.png</key>
-		<data>
-		HlgLLyIRpPM45KnSgSBkPGq4mrM=
-		</data>
-		<key>www/src/assets/img/avocado-selata.png</key>
-		<data>
-		avmkTDdKgJ0j2C3sUICGkEj8MEw=
-		</data>
-		<key>www/src/assets/img/awaze-sauce.png</key>
-		<data>
-		uAP/cggPt2TkpYMY0XK9A4kqnf0=
-		</data>
-		<key>www/src/assets/img/ayib.png</key>
-		<data>
-		2ikyinOrzbQyQe5nK0XvLzROY9M=
-		</data>
-		<key>www/src/assets/img/chechbesa.png</key>
-		<data>
-		s/1j3DZWoBev4lVGyBchENwsTOk=
-		</data>
-		<key>www/src/assets/img/collard-greens.png</key>
-		<data>
-		3hz09Ra+QtXrMRHbW26WznJH3ts=
-		</data>
-		<key>www/src/assets/img/difen-miser.png</key>
-		<data>
-		U0i6an6w5KkgiYNNxX0nkr2qoLc=
-		</data>
-		<key>www/src/assets/img/dinch-besiga.png</key>
-		<data>
-		ZA0G97Qjiy4QSsP8WhZ4nh2yFVU=
-		</data>
-		<key>www/src/assets/img/fasolia.png</key>
-		<data>
-		hdDKd450DcrFs6svWeBtkW49o9E=
-		</data>
-		<key>www/src/assets/img/genfo.png</key>
-		<data>
-		7UInnGFE6fyhG9I6eXHW812+30I=
-		</data>
-		<key>www/src/assets/img/icon.png</key>
-		<data>
-		oiwMfmDajubas8uBB0EDEC7s8xc=
-		</data>
-		<key>www/src/assets/img/key-siga-wot.png</key>
-		<data>
-		0jf1gXR4swm999EpDGEnnl4dugo=
-		</data>
-		<key>www/src/assets/img/kinche.png</key>
-		<data>
-		XW7SkHuuYQYU0c+wmySXLsfZt74=
-		</data>
-		<key>www/src/assets/img/kitfo-tibs.png</key>
-		<data>
-		D1WMp8ggCLKW6hCK+Mv4LFXg55Q=
-		</data>
-		<key>www/src/assets/img/kitfo.png</key>
-		<data>
-		57E5XqVKB2fo1ISkk1DDkbjtZzQ=
-		</data>
-		<key>www/src/assets/img/miser-wot.png</key>
-		<data>
-		/w9lG/163JS9tEXoWyadalcHV04=
-		</data>
-		<key>www/src/assets/img/quanta-firfir.png</key>
-		<data>
-		JfaTPtC5AG5YKRSaDtEkZvMNQQ8=
-		</data>
-		<key>www/src/assets/img/selata.png</key>
-		<data>
-		1sVM5KHoIvuCxDnlF6/RTOcDfpg=
-		</data>
-		<key>www/src/assets/img/senig-kariya.png</key>
-		<data>
-		Fm6hyM/f4YOJQZhJCPvZy5VOSvQ=
-		</data>
-		<key>www/src/assets/img/siga-firfir.png</key>
-		<data>
-		8CLXgv9DSQ/ZgUlI5yEiTLjbROI=
-		</data>
-		<key>www/src/assets/img/siga-wot.png</key>
-		<data>
-		xkkoRYJPleOjL+jvMN4CqMljveA=
-		</data>
-		<key>www/src/assets/img/tikel-gomen.png</key>
-		<data>
-		8CfAqTQCSQVGQmKijtvQfJr+t5w=
-		</data>
 		<key>www/templates/description.html</key>
 		<data>
 		8HTIhNJXqzA/O4/jXd/Nb+srAyQ=
@@ -616,14 +616,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			baODHke/ztkwqgRuDouiJEOJXE44boMxJ9AIjZngxVU=
+			gSPxTIiBXgFw+eXN+NE+xyztF4pCxloCIdZ94NFL2ag=
 			</data>
 		</dict>
 		<key>CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VMsTzi/hS6zh3gQdMn0z1flzB6F9dBoxYn1NGX55zZY=
+			h+ZvUqV7r9t1Im3meDnbFS+A1k4gYTPSuBL5gjX9JRc=
 			</data>
 		</dict>
 		<key>CDVLaunchScreen.storyboardc/Info.plist</key>
@@ -637,21 +637,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xBk2osG6WXxl+SKONxhewTm+3w/wpQjMKZ2T7st2fvc=
+			E9RNxcW+QwcAP9TxLd7ESd3BwjHInEh+5Rk+KIClXNg=
 			</data>
 		</dict>
 		<key>CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BdBk/V3vATNgj8zG6O9hDtZG7FzjiPIht+PIYSXNpO0=
+			OJ1qOj7vrYc0qjEAU8Za2On/p3Ox2yEIcmG4amYeb10=
 			</data>
 		</dict>
 		<key>MainViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			e9pM99Jxj1Znf31nD3wRyrzDCyL6LGuortH3ShigAaE=
+			lQaLmfQbIkvw68EvmQBW2h3aHyKYrTHnaHfGQ+RmFgs=
 			</data>
 		</dict>
 		<key>config.xml</key>
@@ -666,6 +666,223 @@
 			<key>hash2</key>
 			<data>
 			vrVJg61lJ9Cxx8vSCxC0BEN7YT98yC2B+jvgkHVbeaY=
+			</data>
+		</dict>
+		<key>www/assets/img/BesoFirfir.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9epBVBPAS7XRdurCHG+lBJUwrCY+NePNXddBdaElC9U=
+			</data>
+		</dict>
+		<key>www/assets/img/BozenaShiro.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			POE24yUCBM3HjaHnAD0df4HZhAc6FKQhgh9MdzK+SdI=
+			</data>
+		</dict>
+		<key>www/assets/img/EnqulalFirfir.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VnBfuR+UVnUT4yTBe4oYmshp9b3vJdh2yD9Gn21u1GA=
+			</data>
+		</dict>
+		<key>www/assets/img/Icon/_ionicons_svg_ios-share-alt.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RBk0HXTOX/8JL2Ka66BLqTHKy3+60HnjJtOBOTHin4E=
+			</data>
+		</dict>
+		<key>www/assets/img/Icon/_ionicons_svg_md-share-alt.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XienCMwTuRPEQQrKCAVCa3e79KSofjwz6j4/OdamH+Y=
+			</data>
+		</dict>
+		<key>www/assets/img/LegaTibes.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Kq5Z1L1+3CJaZoFszth2dJi081qQbgOFKSqlc02ZLyo=
+			</data>
+		</dict>
+		<key>www/assets/img/Shiro.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RBpI6cTYRLFfLdJ9i68a6zYYUc/Lj1W+XOHLuZP/GFc=
+			</data>
+		</dict>
+		<key>www/assets/img/TikelGomen.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1xAufTLkhxR9Hgz7DQH2gpgoYrEpBEoiPOdEV33Xzgg=
+			</data>
+		</dict>
+		<key>www/assets/img/TimatimSalad.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oqhdYgbCGHnAKbHTI5j/xXv/k546GeqLDGDJj+AgwAc=
+			</data>
+		</dict>
+		<key>www/assets/img/ater-kik.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NyyfBkcPT7W42jWg7F3GH6LYwRzM324u1dr7erLUmhI=
+			</data>
+		</dict>
+		<key>www/assets/img/avocado-selata.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RL34O+pkn8lgb4NCVN5yUpLbhopmId+6uKYwr92aOwk=
+			</data>
+		</dict>
+		<key>www/assets/img/awaze-sauce.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gh6Ne6JI3trZPK2BA2Pym/hNHKnOnXJHTZV3kEvAp1s=
+			</data>
+		</dict>
+		<key>www/assets/img/ayib.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			t/38BgGsxNyfCZW+OFtOjkmYG9c9YE77tFN09/WiXl0=
+			</data>
+		</dict>
+		<key>www/assets/img/chechbesa.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QJl6Lh1bpADZNdyFp6f58UbxAznpQJgG/KY9R+y39Pc=
+			</data>
+		</dict>
+		<key>www/assets/img/collard-greens.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5SYKX/a8H3sw60QPB2rRLDjxOrx3/6B92T1BUwA3ShI=
+			</data>
+		</dict>
+		<key>www/assets/img/difen-miser.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5jugRiSaGdtMBBFriq/8Hpywg9jGBcFZmwRfNPkkDBM=
+			</data>
+		</dict>
+		<key>www/assets/img/dinch-besiga.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mduCIbGdqy5H8a0miXqV1fe59QB/VoAkalPEwbuJ9t8=
+			</data>
+		</dict>
+		<key>www/assets/img/fasolia.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aoMsuhEBVbVjfKLeuvaxueU8FyqMVIANxT8jKVoAdZI=
+			</data>
+		</dict>
+		<key>www/assets/img/genfo.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			V5lGzhloA0aPwHTrW52CD1NpYNfeFWPZo83IujFeLok=
+			</data>
+		</dict>
+		<key>www/assets/img/icon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cvgpM9yQLkpmar3UG9xvLSqWQxHxontLnqlcoHdcFK8=
+			</data>
+		</dict>
+		<key>www/assets/img/key-siga-wot.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4pJrN+4f0sS9Ah97puIU4icF4p/bo2PAnE+yKO3OWbI=
+			</data>
+		</dict>
+		<key>www/assets/img/kinche.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kB3krrUyC34akiRHDwTmWVd5b3hUdWZ+NzWdANLnuRE=
+			</data>
+		</dict>
+		<key>www/assets/img/kitfo-tibs.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lB6iG9Y/a3BGG9tq821/c6iORQ6n5VoX5bQnrH996PM=
+			</data>
+		</dict>
+		<key>www/assets/img/kitfo.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tIInC/9rWX+pNQE5TpkrioKJk3GC7/h+qVJw4buDSi0=
+			</data>
+		</dict>
+		<key>www/assets/img/miser-wot.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PYIQ/wPY8FGFTZJqQxL8mhIN5LFNkMoT9ArEvTSALW8=
+			</data>
+		</dict>
+		<key>www/assets/img/quanta-firfir.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ws9wjM0opk0fUXTxkut7wppOV/ZVlp4tUZfYPlYmBBM=
+			</data>
+		</dict>
+		<key>www/assets/img/selata.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LGSsjVBU9c2EYSJO4mXxCk9jwwllmCWc/fkT9Js7NgY=
+			</data>
+		</dict>
+		<key>www/assets/img/senig-kariya.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ViYXbxwgPokBRvNCvxZljrE6AcMRLSLLUAXeax1rUK4=
+			</data>
+		</dict>
+		<key>www/assets/img/siga-firfir.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BGsc4dEyO2m148paGxD04VhE4hxtsLKEkn8BLNE/gcU=
+			</data>
+		</dict>
+		<key>www/assets/img/siga-wot.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YUhVcXG8+gH6f2+NElarQ1dP3vv87Ea8yes9Utm31i8=
+			</data>
+		</dict>
+		<key>www/assets/img/tikel-gomen.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0jsCn+nSOw+GbI4bbWb4t3FBjWInG4WGwsL8FCcGu9A=
 			</data>
 		</dict>
 		<key>www/cordova-js-src/exec.js</key>
@@ -763,7 +980,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5DCQCWlgJ9FbuTqdsIbJ3BTJN4K3LvoTlTiTOPdfLD4=
+			QH7bH17D/79rL96WxhN5yc6YiOKNmhi52LIrQ5Zdrsk=
 			</data>
 		</dict>
 		<key>www/icon-40.png</key>
@@ -1324,223 +1541,6 @@
 			<key>hash2</key>
 			<data>
 			dBMudiIzZOqT2ZjZS4OV5HJLfrtQzGe4lU5w1G9nQCc=
-			</data>
-		</dict>
-		<key>www/src/assets/img/BesoFirfir.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			9epBVBPAS7XRdurCHG+lBJUwrCY+NePNXddBdaElC9U=
-			</data>
-		</dict>
-		<key>www/src/assets/img/BozenaShiro.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			POE24yUCBM3HjaHnAD0df4HZhAc6FKQhgh9MdzK+SdI=
-			</data>
-		</dict>
-		<key>www/src/assets/img/EnqulalFirfir.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			VnBfuR+UVnUT4yTBe4oYmshp9b3vJdh2yD9Gn21u1GA=
-			</data>
-		</dict>
-		<key>www/src/assets/img/Icon/_ionicons_svg_ios-share-alt.svg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			RBk0HXTOX/8JL2Ka66BLqTHKy3+60HnjJtOBOTHin4E=
-			</data>
-		</dict>
-		<key>www/src/assets/img/Icon/_ionicons_svg_md-share-alt.svg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			XienCMwTuRPEQQrKCAVCa3e79KSofjwz6j4/OdamH+Y=
-			</data>
-		</dict>
-		<key>www/src/assets/img/LegaTibes.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Kq5Z1L1+3CJaZoFszth2dJi081qQbgOFKSqlc02ZLyo=
-			</data>
-		</dict>
-		<key>www/src/assets/img/Shiro.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			RBpI6cTYRLFfLdJ9i68a6zYYUc/Lj1W+XOHLuZP/GFc=
-			</data>
-		</dict>
-		<key>www/src/assets/img/TikelGomen.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1xAufTLkhxR9Hgz7DQH2gpgoYrEpBEoiPOdEV33Xzgg=
-			</data>
-		</dict>
-		<key>www/src/assets/img/TimatimSalad.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			oqhdYgbCGHnAKbHTI5j/xXv/k546GeqLDGDJj+AgwAc=
-			</data>
-		</dict>
-		<key>www/src/assets/img/ater-kik.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NyyfBkcPT7W42jWg7F3GH6LYwRzM324u1dr7erLUmhI=
-			</data>
-		</dict>
-		<key>www/src/assets/img/avocado-selata.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			RL34O+pkn8lgb4NCVN5yUpLbhopmId+6uKYwr92aOwk=
-			</data>
-		</dict>
-		<key>www/src/assets/img/awaze-sauce.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			gh6Ne6JI3trZPK2BA2Pym/hNHKnOnXJHTZV3kEvAp1s=
-			</data>
-		</dict>
-		<key>www/src/assets/img/ayib.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			t/38BgGsxNyfCZW+OFtOjkmYG9c9YE77tFN09/WiXl0=
-			</data>
-		</dict>
-		<key>www/src/assets/img/chechbesa.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			QJl6Lh1bpADZNdyFp6f58UbxAznpQJgG/KY9R+y39Pc=
-			</data>
-		</dict>
-		<key>www/src/assets/img/collard-greens.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5SYKX/a8H3sw60QPB2rRLDjxOrx3/6B92T1BUwA3ShI=
-			</data>
-		</dict>
-		<key>www/src/assets/img/difen-miser.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5jugRiSaGdtMBBFriq/8Hpywg9jGBcFZmwRfNPkkDBM=
-			</data>
-		</dict>
-		<key>www/src/assets/img/dinch-besiga.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mduCIbGdqy5H8a0miXqV1fe59QB/VoAkalPEwbuJ9t8=
-			</data>
-		</dict>
-		<key>www/src/assets/img/fasolia.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			aoMsuhEBVbVjfKLeuvaxueU8FyqMVIANxT8jKVoAdZI=
-			</data>
-		</dict>
-		<key>www/src/assets/img/genfo.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			V5lGzhloA0aPwHTrW52CD1NpYNfeFWPZo83IujFeLok=
-			</data>
-		</dict>
-		<key>www/src/assets/img/icon.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			cvgpM9yQLkpmar3UG9xvLSqWQxHxontLnqlcoHdcFK8=
-			</data>
-		</dict>
-		<key>www/src/assets/img/key-siga-wot.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4pJrN+4f0sS9Ah97puIU4icF4p/bo2PAnE+yKO3OWbI=
-			</data>
-		</dict>
-		<key>www/src/assets/img/kinche.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			kB3krrUyC34akiRHDwTmWVd5b3hUdWZ+NzWdANLnuRE=
-			</data>
-		</dict>
-		<key>www/src/assets/img/kitfo-tibs.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			lB6iG9Y/a3BGG9tq821/c6iORQ6n5VoX5bQnrH996PM=
-			</data>
-		</dict>
-		<key>www/src/assets/img/kitfo.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			tIInC/9rWX+pNQE5TpkrioKJk3GC7/h+qVJw4buDSi0=
-			</data>
-		</dict>
-		<key>www/src/assets/img/miser-wot.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			PYIQ/wPY8FGFTZJqQxL8mhIN5LFNkMoT9ArEvTSALW8=
-			</data>
-		</dict>
-		<key>www/src/assets/img/quanta-firfir.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Ws9wjM0opk0fUXTxkut7wppOV/ZVlp4tUZfYPlYmBBM=
-			</data>
-		</dict>
-		<key>www/src/assets/img/selata.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LGSsjVBU9c2EYSJO4mXxCk9jwwllmCWc/fkT9Js7NgY=
-			</data>
-		</dict>
-		<key>www/src/assets/img/senig-kariya.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ViYXbxwgPokBRvNCvxZljrE6AcMRLSLLUAXeax1rUK4=
-			</data>
-		</dict>
-		<key>www/src/assets/img/siga-firfir.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			BGsc4dEyO2m148paGxD04VhE4hxtsLKEkn8BLNE/gcU=
-			</data>
-		</dict>
-		<key>www/src/assets/img/siga-wot.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YUhVcXG8+gH6f2+NElarQ1dP3vv87Ea8yes9Utm31i8=
-			</data>
-		</dict>
-		<key>www/src/assets/img/tikel-gomen.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0jsCn+nSOw+GbI4bbWb4t3FBjWInG4WGwsL8FCcGu9A=
 			</data>
 		</dict>
 		<key>www/templates/description.html</key>
