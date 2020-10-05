@@ -3,7 +3,7 @@
     <name>HabeshaFood</name>
     <description>Recipes for Ethiopian/Eritrean cuisine.</description>
     <author email="linaatsebha@gmail.com" href="">Helina Atsebha</author>
-    <content src="index.html" />
+    <content original-src="index.html" src="http://localhost:8100" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
@@ -51,4 +51,5 @@
     <plugin name="cordova-plugin-x-socialsharing" spec="^5.4.1" />
     <plugin name="cordova-plugin-ionic-webview" spec="^1.1.19" />
     <plugin name="cordova-plugin-statusbar" spec="^2.4.2" />
+    <allow-navigation href="http://localhost:8100" sessionid="8882e29b" />
 </widget>

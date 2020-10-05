@@ -46,7 +46,7 @@
     <name>HabeshaFood</name>
     <description>Recipes for Ethiopian/Eritrean cuisine.</description>
     <author email="linaatsebha@gmail.com" href="">Helina Atsebha</author>
-    <content src="index.html" />
+    <content original-src="index.html" src="http://localhost:8100" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
@@ -55,6 +55,7 @@
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
     <allow-navigation href="http://10.0.0.18:8100" />
+    <allow-navigation href="http://localhost:8100" sessionid="8882e29b" />
     <allow-intent href="itms:*" />
     <allow-intent href="itms-apps:*" />
     <icon height="57" src="resources/ios/icon/icon.png" width="57" />

@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1,
-		"imageUrl": "src/assets/img/selata.png",
+		"imageUrl": "assets/img/selata.png",
 		"name": "Selata | Salad",
 		"serving": "4",
 		"prepTime": "10 min",
