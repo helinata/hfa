@@ -11,7 +11,7 @@
       <ul class="list">
         <li ng-repeat="recipe in recipeList">
           <a href="#/app/recipe/?id={{recipe.id}}" class="item item-thumbnail-left">
-            <img ng-src="{{recipe.imageUrl}}" alt="" />
+            <img ng-show="recipe.imageUrl" ng-src="{{recipe.imageUrl}}" alt="" />
             <h2>{{recipe.name}}</h2>
             <p>{{recipe.dietType}}</p>
           </a>

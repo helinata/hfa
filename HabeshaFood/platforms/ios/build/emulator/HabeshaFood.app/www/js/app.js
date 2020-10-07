@@ -48,7 +48,6 @@ angular.module('starter', ['ionic', 'ngCordova', 'starter.controllers'])
           }
         }
       })
-
       .state('app.single', {
         url: '/recipeList/',
         views: {
