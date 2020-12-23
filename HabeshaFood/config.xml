@@ -3,7 +3,7 @@
     <name>HabeshaFood</name>
     <description>Recipes for Ethiopian/Eritrean cuisine.</description>
     <author email="linaatsebha@gmail.com" href="">Helina Atsebha</author>
-    <content original-src="index.html" src="http://localhost:8100" />
+    <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
@@ -45,7 +45,11 @@
     <feature name="SocialSharing">
         <param name="ios-package" value="SocialSharing" />
     </feature>
+    <allow-navigation href="http://10.0.0.4:8100" />
     <allow-navigation href="http://10.0.0.18:8100" />
+    <allow-navigation href="data:*" />
+    <allow-navigation href="http://*/*" />
+    <allow-navigation href="https://*/*" />
     <plugin name="cordova-plugin-whitelist" spec="^1.3.3" />
     <plugin name="cordova-plugin-device" spec="^2.0.2" />
     <plugin name="cordova-plugin-ionic-keyboard" spec="^2.0.5" />

@@ -56,6 +56,7 @@ angular.module('starter.controllers', [])
       .then(function (response) {
         var id = parseInt(recipeId) - 1;
         $scope.recipe = response.data[id];
+        //$scope.img = '<img ng-src=\"'+ response.data[id].imageUrl + '\" \/>';
         //$scope.description = response.data[id].description;
         if (response.data[id].cookingTime) {
           $scope.cookingTimeTitle = "Cooking: ";

@@ -1,5 +1,0 @@
-<ion-view view-title="Description" class="side-space">
-  <ion-content>
-    Ethiopian/Eritrean cuisine recipes.
-</ion-content>
-</ion-view>

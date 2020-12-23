@@ -28,7 +28,7 @@ const CordovaError = require('cordova-common').CordovaError;
 
 const cachedProjectFiles = {};
 
-function parseProjectFile(locations) {
+function parseProjectFile (locations) {
     const project_dir = locations.root;
     const pbxPath = locations.pbxproj;
 
@@ -39,19 +39,8 @@ function parseProjectFile(locations) {
     const xcodeproj = xcode.project(pbxPath);
     xcodeproj.parseSync();
 
-    var projectName = fs
-        .readdirSync(project_dir)
-        .find(d => d.includes(".xcworkspace"))
-        .replace(".xcworkspace", "");
-
-    var xcBuildConfiguration = xcodeproj.pbxXCBuildConfigurationSection();
-    var plist_file_entry = _.find(xcBuildConfiguration, function (entry) {
-        return (
-            entry.buildSettings &&
-            entry.buildSettings.INFOPLIST_FILE &&
-            entry.buildSettings.INFOPLIST_FILE.includes(projectName)
-        );
-    });
+    const xcBuildConfiguration = xcodeproj.pbxXCBuildConfigurationSection();
+    const plist_file_entry = _.find(xcBuildConfiguration, entry => entry.buildSettings && entry.buildSettings.INFOPLIST_FILE);
     const plist_file = path.join(project_dir, plist_file_entry.buildSettings.INFOPLIST_FILE.replace(/^"(.*)"$/g, '$1').replace(/\\&/g, '&'));
     const config_file = path.join(path.dirname(plist_file), 'config.xml');
 
@@ -109,7 +98,7 @@ function parseProjectFile(locations) {
     return cachedProjectFiles[project_dir];
 }
 
-function purgeProjectFileCache(project_dir) {
+function purgeProjectFileCache (project_dir) {
     delete cachedProjectFiles[project_dir];
 }
 
@@ -138,13 +127,13 @@ xcode.project.prototype.removeFromPbxEmbedFrameworksBuildPhase = function (file)
 // special handlers to add frameworks to the 'Embed Frameworks' build phase, needed for custom frameworks
 // see CB-9517. should probably be moved to node-xcode.
 const util = require('util');
-function pbxBuildPhaseObj(file) {
+function pbxBuildPhaseObj (file) {
     const obj = Object.create(null);
     obj.value = file.uuid;
     obj.comment = longComment(file);
     return obj;
 }
 
-function longComment(file) {
+function longComment (file) {
     return util.format('%s in %s', file.basename, file.group);
 }
